@@ -22,7 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d1a9714-f91c-4bc9-9b76-5dc1cf821111" name="Default Changelist" comment="" />
+    <list default="true" id="8d1a9714-f91c-4bc9-9b76-5dc1cf821111" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Abhi" beforeDir="false" afterPath="$PROJECT_DIR$/Abhi" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,5 +62,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="397" y="199" width="562" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1624775150050">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="397" y="199" width="562" height="403" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1624775150050" />
   </component>
 </project>
